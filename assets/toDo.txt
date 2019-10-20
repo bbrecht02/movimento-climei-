@@ -1,0 +1,6 @@
+. dados temp recife 
+. dados espaços ociosos 
+. consequencias humanas do aumento da temperatura
+. dados consumo de energia 
+
+
